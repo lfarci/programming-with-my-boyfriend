@@ -40,3 +40,4 @@ Run your first program in the **terminal** using **Node**
 
 
 
+- [Microsoft Learn Bgeinner's Series to JavaScript](https://learn.microsoft.com/en-us/shows/beginners-series-to-javascript/)
